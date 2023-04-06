@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 main()
 {
     int a=15;
@@ -7,4 +7,4 @@ main()
 
   printf("or 연산 결과 : %d", c);
   
-}
+}*/
