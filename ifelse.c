@@ -1,17 +1,11 @@
-#include <stdio.h>
-
+/* #include <stdio.h>
 main() {
-  int a=5;
-  
-  if (a>3)
-      printf("A\n");
-  else
-    printf("B\n");
-  printf("C\n");
+  int x;
+  printf("정수 입력 : ");
+  scanf("%d", &x);
 
-  if (a>8) printf("D\n");
-
-  else printf("E\n");
-
-  printf("F\n");
-}
+      if(x%2==0)
+        printf("짝수");
+      else
+       printf("홀수");
+}/**/
